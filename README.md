@@ -1,5 +1,5 @@
 # FolSum
-<img width="897" height="896" alt="logo FolSum_small" src="https://github.com/user-attachments/assets/20f4e63c-f9c4-494d-b0da-6dd16d9239a4" />
+<img width="650" height="649" alt="logo FolSum_small" src="https://github.com/user-attachments/assets/20f4e63c-f9c4-494d-b0da-6dd16d9239a4" />
 
 **FolSum** is a deep-learning pipeline for automated detection and counting of *Folsomia candida* nymphs from arena images using YOLOv8.
 
