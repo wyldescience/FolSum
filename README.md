@@ -13,9 +13,9 @@ Automated detection and counting of <i>Folsomia candida</i> nymphs using YOLOv8.
 
 ## Overview
 
-**FolSum** is a deep-learning pipeline for automated detection and counting of *Folsomia candida* nymphs from arena images using YOLOv8.
+**FolSum** is a deep-learning pipeline for automated detection and counting of *Folsomia candida* nymphs from arena images using YOLOv8. This model was built using Python [Ultralytics framework](https://github.com/ultralytics/ultralytics) and implemented in Google Colab.
 
-FolSum was developed to quantify offspring number from images of springtail population containers. The workflow includes:
+The workflow includes:
 
 1. automatic arena cropping  
 2. tiling of cropped images  
