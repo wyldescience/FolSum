@@ -1,12 +1,10 @@
 # FolSum
+<img width="897" height="896" alt="logo FolSum_small" src="https://github.com/user-attachments/assets/20f4e63c-f9c4-494d-b0da-6dd16d9239a4" />
 
 **FolSum** is a deep-learning pipeline for automated detection and counting of *Folsomia candida* nymphs from arena images using YOLOv8.
 
-<img width="1636" height="1635" alt="logo FolSum" src="https://github.com/user-attachments/assets/aa58d423-6564-4a52-b334-efd6f53a0823" />
-
-
-
 ## Overview
+
 
 FolSum was developed to quantify offspring number from images of springtail population containers. The workflow includes:
 
