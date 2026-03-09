@@ -6,7 +6,7 @@
 <h1 align="center">
 
 <p align="center">
-# Automated detection and counting of <i>Folsomia candida</i> nymphs using YOLOv8.
+Automated detection and counting of <i>Folsomia candida</i> nymphs using YOLOv8.
 
  
 </p>
