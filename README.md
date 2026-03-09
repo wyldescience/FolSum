@@ -9,7 +9,7 @@ FolSum was developed to quantify offspring number from images of springtail popu
 1. automatic arena cropping  
 2. tiling of cropped images  
 3. YOLOv8-based nymph detection  
-4. recombination of detections across overlapping tiles  
+4. recombination of detections across overlapping tiles (NMN- Non Maximum Supression)  
 5. validation against manual counts
 
 The model was trained on manually annotated image tiles and validated on an independent set of unseen container images spanning a broad range of offspring densities.
