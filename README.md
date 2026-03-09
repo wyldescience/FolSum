@@ -7,7 +7,8 @@
 
 <p align="center">
 Automated detection and counting of <i>Folsomia candida</i> nymphs using YOLOv8.
-**FolSum** is a deep-learning pipeline for automated detection and counting of *Folsomia candida* nymphs from arena images using YOLOv8.
+
+  **FolSum** is a deep-learning pipeline for automated detection and counting of *Folsomia candida* nymphs from arena images using YOLOv8.
 
 </p>
 
