@@ -4,6 +4,13 @@
 <p align="center">
   <img src="https://github.com/user-attachments/assets/20f4e63c-f9c4-494d-b0da-6dd16d9239a4" width="450">
 </p>
+
+<h1 align="center">FolSum</h1>
+
+<p align="center">
+Automated detection and counting of <i>Folsomia candida</i> nymphs using YOLOv8
+</p>
+
 ## Overview
 
 FolSum was developed to quantify offspring number from images of springtail population containers. The workflow includes:
