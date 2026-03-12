@@ -23,12 +23,12 @@ The pipeline includes:
 4. recombination of detections across overlapping tiles using **non-maximum suppression (NMS)**  
 5. validation against manual counts
 
-The model was trained on manually annotated image tiles and validated on an independent set of unseen container images spanning a broad range of offspring densities.
+The model was trained on manually annotated image tiles and validated on an independent set of unseen container images spanning a broad range of offspring densities. The population containers consited of a layers of moistened plaster-paris/ activated charcoal which had a lot of variation in surface texture and lighting (some cases some mold growth) but the model performs very well to distinguish small springtail nymphs and get counts (see validation output and also citation for more details on methods).
 
-Here is an example of a cropped image with overlay of bounding boxes 
+Here is an example of a cropped image with an overlay of bounding boxes from model:
 
 <p align="center">
-<img src = "https://github.com/user-attachments/assets/ef7373a2-6337-48dc-bc60-2801039bacd5" >
+<img src = "https://github.com/user-attachments/assets/ef7373a2-6337-48dc-bc60-2801039bacd5" width = "450">
 </p>
 
 ---
