@@ -62,9 +62,3 @@ If you use FolSum in your work, please cite:
 *Wylde et al. (YEAR). [paper title]*
 
 ---
-
-## Code availability
-
-Code, trained model weights, and scripts used for automated offspring counting are available at:
-
-**https://github.com/wyldescience/FolSum**
