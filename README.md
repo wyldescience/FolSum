@@ -25,6 +25,12 @@ The pipeline includes:
 
 The model was trained on manually annotated image tiles and validated on an independent set of unseen container images spanning a broad range of offspring densities.
 
+Here is an example of a cropped image with overlay of bounding boxes 
+
+<p align="center">
+<img src = "https://github.com/user-attachments/assets/ef7373a2-6337-48dc-bc60-2801039bacd5" >
+</p>
+
 ---
 
 ## Repository contents
