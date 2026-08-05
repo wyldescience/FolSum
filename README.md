@@ -59,6 +59,6 @@ The pipeline was originally developed and run in **Google Colab**, but the scrip
 
 If you use FolSum in your work, please cite:
 
-*Miller, SM., Wylde, Z., & Bonduriansky, R.(2026). [Maternal senescence is transmitted to offspring via broad reprogramming of gene expression]*
-
+*Miller, SM., Wylde, Z., & Bonduriansky, R.(2026). [Maternal senescence broadly reprograms gene expression in offspring]*
+https://doi.org/10.64898/2026.04.28.720237
 ---
